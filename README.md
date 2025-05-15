@@ -1,45 +1,67 @@
 ## Hi there 👋 I'm Mohammed Murshid!  
 
-### 🧑‍💻 About Me:  
-I'm a **Full-Stack Developer** who loves crafting awesome web and mobile applications!  
-💡 Specializing in **React**, **Next.js**, **Node.js**, and **React Native**.  
-🚀 Turning complex problems into simple, elegant solutions with **clean code**.  
-🎨 A firm believer in **user-first design** and **scalable architectures**.  
+### 🧑‍💻 About Me  
+I'm a **Full-Stack Developer** with a passion for building **intelligent, user-focused apps**.  
+💡 I specialize in **React**, **Next.js**, **Node.js**, and **React Native** – and now exploring the exciting world of **AI-powered applications**.  
+🚀 I love turning complex problems into clean, scalable solutions.  
+🧠 Recent focus: Combining **Machine Learning** with **Product Thinking** to build real-world impact.
 
 ---
 
-### 🛠️ Tech Stack:  
+### 🛠️ Tech Stack  
 🚀 **Frontend:**  
 - React, Next.js, React Native, Redux Toolkit  
+
 🎨 **Styling:**  
 - Tailwind CSS, Material-UI, Bootstrap  
+
 ⚙️ **Backend:**  
-- Node.js, Express.js  
+- Node.js, Express.js, FastAPI, REST APIs  
+
+🤖 **AI / ML / NLP:**  
+- HuggingFace Transformers, LangChain, Semantic Search  
+- Emotion Detection, Text Classification, Vector Databases (ChromaDB)  
+
 🗃️ **Databases:**  
 - MongoDB, PostgreSQL  
-🔧 **Tools & Utilities:**  
-- Git, Vercel, Day.js, Expo  
+
+🔧 **Tools & Deployment:**  
+- Git & GitHub, Vercel, Railway, Render, Netlify  
+- Jupyter Notebooks, VSCode, Day.js, Expo  
 
 ---
 
-### 🌟 What I’m up to:  
-- 🚀 Building **AI-driven platforms** to empower students and professionals.  
-- 📱 Crafting cross-platform mobile apps using **React Native**.  
-- 🌱 Exploring **serverless architectures** and **backend scalability**.  
+### 🌟 What I’m up to  
+- 🤖 Building **AI-driven platforms** – latest: a **Book Recommendation Service** using NLP + FastAPI + Gradio  
+- 📱 Crafting mobile apps with **React Native**  
+- 🌐 Exploring **serverless**, **semantic search**, and **emotion-aware systems**  
+- 💭 Learning deeply about **AI x UX** – designing interfaces that feel smart and human  
 
 ---
 
-### 🎉 Fun Facts About Me:  
-- 🍕 I code better with a pizza by my side.  
-- 🤓 Lifelong learner and aspiring **tech entrepreneur**.  
-- 😂 My debugging face has more emotions than any Netflix drama.  
+### 📌 Highlight Project: Book Recommendation Service  
+A smart book recommendation system powered by semantic search & emotion detection.  
+🧠 Built using **FastAPI, Gradio, HuggingFace, ChromaDB**  
+✨ Features:
+- Emotion-based filtering (Happy, Sad, Suspenseful, etc.)
+- Category-wise book suggestions
+- REST API + Clean Gradio UI  
+🔗 Live: [`/docs`](https://book-recommander-service.onrender.com/docs) | [`/dashboard`](https://book-recommander-service.onrender.com/dashboard)
 
 ---
 
-### 🌐 Where to find me:  
+### 🎉 Fun Facts About Me  
+- 🍕 I code better with a pizza by my side  
+- 📚 I'm obsessed with building tools that are *actually* useful  
+- 😂 My debugging face has more emotions than any Netflix drama  
+- 🤓 Constantly learning – one side project at a time  
+
+---
+
+### 🌐 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/murshidkk/)  
 - 🌐 [Portfolio](https://dev-connector-weld.vercel.app/)  
-- 📧 Drop me an email: [muhammedmurshid43@gmail.com](mailto:muhammedmurshid43@gmail.com)  
+- 📧 [Email Me](mailto:muhammedmurshid43@gmail.com)  
 
 ---
 
@@ -49,7 +71,7 @@ I'm a **Full-Stack Developer** who loves crafting awesome web and mobile applica
 
 ---
 
-### 📊 GitHub Stats:  
+### 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedmurshidkk&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedmurshidkk&theme=radical" alt="GitHub Streak">
@@ -63,5 +85,5 @@ I'm a **Full-Stack Developer** who loves crafting awesome web and mobile applica
 
 ---
 
-### ⚡ Motto:  
-_“Write code that your future self will thank you for!”_ 😎
+### ⚡ Motto  
+_“Write code that your future self will thank you for.”_ 😎
